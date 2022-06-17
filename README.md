@@ -1,5 +1,5 @@
 ## Salve salve
-### Eu sou o Mateus, tenho 22 anos e estou estudando desenvolvimento web 👨‍💻
+### Eu sou o Mateus, tenho 22 anos e estou estudando desenvolvimento web(foco no front-end atualmente) 👨‍💻
 
 ## Você consegue me encontrar em:
  
